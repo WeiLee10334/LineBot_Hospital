@@ -1,0 +1,20 @@
+{
+  "name": "linebot_hospital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/hosbot.git"
+  },
+  "author": "Weifan Lee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "linebot": "^1.4.1"
+  }
+}
